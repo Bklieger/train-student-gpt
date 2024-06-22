@@ -21,7 +21,7 @@ python run.py --mode generate --prompt "### Lec 29 | MIT 18.01 Single Variable C
 
 
 ### Examples from Training Data
-> Processed from SIGHT data in comments.json.
+> Processed from SIGHT data in comments.json. The format is "### {Lecture title}\n{Student comment}.
 
 ```
 ### 4. Factorization into A = LU
