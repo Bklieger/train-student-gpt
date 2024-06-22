@@ -26,16 +26,13 @@ The results of training for 27 minutes on an NVIDIA A100-80GB:
 The generations include several comments and titles which appear realistic relative to the model size:
 
 ```
-\#\#\# Lec 1 | MIT 18.01 Single Variable Calculus, Fall 2007
-
+### Lec 1 | MIT 18.01 Single Variable Calculus, Fall 2007
 He the best.
 
-\#\#\# Lec 24 | MIT 18.01 Single Variable Calculus, Fall 2007
-
+### Lec 24 | MIT 18.01 Single Variable Calculus, Fall 2007
 Thanks
 
-\#\#\# 1. Introduction to Statistics
-
+### 1. Introduction to Statistics
 this course 😂😂
 ```
 
