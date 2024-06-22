@@ -23,7 +23,24 @@ The results of training for 27 minutes on an NVIDIA A100-80GB:
 
 ![Loss Curve](/example/loss_curve.png)
 
-The generations include several comments and titles which appear realistic relative to the model size:
+The generations include several comments and titles which appear realistic relative to the model size.
+
+#### Training Data
+> Generated from SIGHT data in comments.json.
+
+```
+### 4. Factorization into A = LU
+Thank you for your leasons!
+
+### Lec 2 | MIT 18.01 Single Variable Calculus, Fall 2007
+I sure will pay it back hundredfold. Thanks!!!
+
+### 2. Conditioning and Bayes' Rule
+amazing explanations
+```
+
+#### Generated Data
+> The prompt included an example title of "### Lec 29 | MIT 18.01 Single Variable Calculus, Fall 2007". The following are several generated video titles and comments selected from the model's output as impressive examples.
 
 ```
 ### Lec 1 | MIT 18.01 Single Variable Calculus, Fall 2007
