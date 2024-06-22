@@ -56,4 +56,5 @@ this course 😂😂
 ### Credits:
 
 Andrej Karpathy for model code [https://www.youtube.com/watch?v=kCc8FmEb1nY](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+
 Wang et. al., 2023 for data: [https://github.com/rosewang2008/sight/](https://github.com/rosewang2008/sight/)
