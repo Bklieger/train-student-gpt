@@ -40,7 +40,7 @@ amazing explanations
 ```
 
 #### Generated Data
-> The prompt included an example title of "### Lec 29 | MIT 18.01 Single Variable Calculus, Fall 2007". The following are several generated video titles and comments selected from the model's output as impressive examples.
+> Prompt was "### Lec 29 | MIT 18.01 Single Variable Calculus, Fall 2007". The following are the best generated video titles and comments chosen from the [model's output](example/generated.md).
 
 ```
 ### Lec 1 | MIT 18.01 Single Variable Calculus, Fall 2007
