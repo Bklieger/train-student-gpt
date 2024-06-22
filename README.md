@@ -1,10 +1,10 @@
 # Train Student GPT
 
-### Description
+## Description
 
 Train a small Generative Pre-trained Transformer to generate student lecture commentary data from SIGHT ([Wang et. al., 2023](https://github.com/rosewang2008/sight/)).
 
-### Getting Started
+## Getting Started
 
 To train the model, you can run:
 ~~~
@@ -17,16 +17,11 @@ python run.py --mode generate --prompt "### Lec 29 | MIT 18.01 Single Variable C
 ~~~
 
 
-### Results
+## Results
 
-The results of training for 27 minutes on an NVIDIA A100-80GB:
 
-![Loss Curve](/example/loss_curve.png)
-
-The generations include several comments and titles which appear realistic relative to the model size.
-
-#### Examples from Training Data
-> Generated from SIGHT data in comments.json.
+### Examples from Training Data
+> Processed from SIGHT data in comments.json.
 
 ```
 ### 4. Factorization into A = LU
@@ -39,7 +34,16 @@ I sure will pay it back hundredfold. Thanks!!!
 amazing explanations
 ```
 
-#### Examples from Generated Data
+### Training
+
+The results of training for 27 minutes on an NVIDIA A100-80GB:
+
+![Loss Curve](/example/loss_curve.png)
+
+The generations include several comments and titles which appear realistic relative to the model size.
+
+
+### Examples from Generated Data
 > Prompt was "### Lec 29 | MIT 18.01 Single Variable Calculus, Fall 2007". The following are the best generated video titles and comments chosen from the [model's output](example/generated.md).
 
 ```
@@ -53,7 +57,7 @@ Thanks
 this course 😂😂
 ```
 
-### Credits:
+## Credits:
 
 Andrej Karpathy for model code [https://www.youtube.com/watch?v=kCc8FmEb1nY](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
