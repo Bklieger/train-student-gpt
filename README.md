@@ -2,7 +2,7 @@
 
 ### Description
 
-Train a small Generative Pre-trained Transformer to generate student lecture commentary [Wang et. al., 2023](https://github.com/rosewang2008/sight/).
+Train a small Generative Pre-trained Transformer to generate student lecture commentary data from SIGHT ([Wang et. al., 2023](https://github.com/rosewang2008/sight/)).
 
 ### Getting Started
 
@@ -21,7 +21,7 @@ python run.py --mode generate --prompt "### Lec 29 | MIT 18.01 Single Variable C
 
 The results of training for 27 minutes on an NVIDIA A100-80GB:
 
-![Loss Curve]("./assets/loss_curve.png")
+![Loss Curve](/assets/loss_curve.png)
 
 The generations include several comments and titles which appear realistic relative to the model size:
 
