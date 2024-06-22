@@ -25,7 +25,7 @@ The results of training for 27 minutes on an NVIDIA A100-80GB:
 
 The generations include several comments and titles which appear realistic relative to the model size.
 
-#### Training Data
+#### Examples from Training Data
 > Generated from SIGHT data in comments.json.
 
 ```
@@ -39,7 +39,7 @@ I sure will pay it back hundredfold. Thanks!!!
 amazing explanations
 ```
 
-#### Generated Data
+#### Examples from Generated Data
 > Prompt was "### Lec 29 | MIT 18.01 Single Variable Calculus, Fall 2007". The following are the best generated video titles and comments chosen from the [model's output](example/generated.md).
 
 ```
